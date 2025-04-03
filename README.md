@@ -7,7 +7,7 @@ This project analyses an email communication network from a research institution
 The analysis uses two main datasets:
 1. `email-Eu-core.txt.gz`: Contains email communication links between members
 2. `email-Eu-core-department-labels.txt.gz`: Contains department membership labels for each member
-Dataset from https://snap.stanford.edu/data/email-Eu-core.html
+- Dataset from https://snap.stanford.edu/data/email-Eu-core.html
 
 ## Libraries Used
 
